@@ -9,9 +9,9 @@ include:
 pages:
   - title: About Me
     url: /about.html
-  - title: Published Documentation: Oracle
+  - title: Published Documentation — Oracle
     url: /oracle_docs.html
-  - title: Published Documentation: Celigo
+  - title: Published Documentation — Celigo
     url: /celigo_docs.html
   - title: API Documentation Samples
     url: /api_docs.html
