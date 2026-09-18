@@ -11,7 +11,7 @@ This page contains additional documentation samples that showcase skills beyond 
 
 **Summary:** This document explains the process of creating IAM roles and policies in AWS to manage secure access to cloud resources. It covers prerequisites, step-by-step procedures using the AWS Management Console, and best practices for permissions and trust relationships. This sample was created as part of an assignment for a project course.
 
-**PDF:** <a href="assets/pdfs/awsiam_rolesandpolicies.pdf" target="_blank" rel="noopener noreferrer">Download PDF</a>
+**PDF:** <a href="assets/pdfs/aws_iam_createrolesandpolicies.pdf" target="_blank" rel="noopener noreferrer">Download PDF</a>
 
 ## User Persona Sample
 
