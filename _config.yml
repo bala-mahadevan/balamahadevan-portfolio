@@ -2,3 +2,22 @@ title: "Bala Mahadevan – Technical Documentation Portfolio"
 description: "Technical Writer | API Docs | SaaS | Release Notes | User Guides | Implementation Guides | Configuration Guides | SOPs"
 theme: jekyll-theme-slate
 markdown: kramdown
+
+include:
+  - assets/css/custom.css
+
+pages:
+  - title: About Me
+    url: /about.html
+    layout: default
+
+  - title: Published Documentation: Oracle
+    url: /oracle_docs.html
+
+  - title: Published Documentation: Celigo
+    url: /celigo_docs.html
+
+  - title: API Documentation Samples
+    url: /api_docs.html
+  - title: Other Documentation Samples
+    url: /other_docs.html
