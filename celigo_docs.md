@@ -35,3 +35,11 @@ This page contains some documentation samples which were created by me and publi
 **PDF:** <a href="assets/pdfs/settings_wfsorders_celigo.pdf" target="_blank" rel="noopener noreferrer">Download PDF</a>
 
 **Published at:** <a href="https://docs.celigo.com/hc/en-us/articles/13312568572571" target="_blank" rel="noopener noreferrer">Configure settings for Walmart Fulfillment Services orders</a>
+
+## eBay – NetSuite Integration App overview
+
+**Summary:** This article provides a brief overview of how the **eBay – NetSuite Integration App** works. It also provides information about the marketplaces supported and the flows that are available to use as part of the prebuilt integration.
+
+**PDF:** <a href="assets/pdfs/eBay_netsuite_ia_overview_celigo.pdf" target="_blank" rel="noopener noreferrer">Download PDF</a>
+
+**Published at:** <a href="https://docs.celigo.com/hc/en-us/articles/115005119888" target="_blank" rel="noopener noreferrer">eBay – NetSuite Integration App overview</a>
