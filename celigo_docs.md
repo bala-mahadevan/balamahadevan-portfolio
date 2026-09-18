@@ -34,6 +34,6 @@ This page contains some documentation samples which were created by me and publi
 
 **Summary:** This article explains how users can configure the settings for Walmart Fulfillment Services orders before you start syncing them with NetSuite. The article explains how users can customize the order settings using order filters and shipping methods. It also explains how users can import the orders and customer information from Walmart to NetSuite before running the actual flow.
 
-**PDF:** [Download PDF](assets/pdfs/settings_wfsorders_celigo.pdf)
+**PDF:** [Download PDF](assets/pdfs/settings_wfsorders_celigo.pdf){:target="_blank" rel="noopener noreferrer"}
 
 **Published at:** [Configure settings for Walmart Fulfillment Services orders](https://docs.celigo.com/hc/en-us/articles/13312568572571){:target="_blank" rel="noopener noreferrer"}
