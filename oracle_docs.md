@@ -25,11 +25,15 @@ This page contains some documentation samples which were created by me and publi
 ## Administrator-related Form W-2 FAQs
 
 **Summary:** This FAQ article contains a list of possible questions an administrator may have about how to download the Form W-2 for their employees.
+
 **PDF:** [Download PDF](../assets/pdfs/formw2adminfaqs_netsuite.pdf)
+
 **Published at:** [Administrator-related Form W-2 FAQs](https://docs.oracle.com/en/cloud/saas/netsuite/ns-online-help/article_5203733598.html)
 
 ## Form W-2 FAQs
 
 **Summary:** This FAQ article contains a list of possible questions an employee may have about how to download the Form W-2 from the Employee Center.
+
 **PDF:** [Download PDF](..assets/pdfs/formw2employeefaqs_netsuite.pdf)
+
 **Published at:** [Form W-2 FAQs](https://docs.oracle.com/en/cloud/saas/netsuite/ns-online-help/article_5191744364.html#subsect_0127034413)
