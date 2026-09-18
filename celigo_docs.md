@@ -1,5 +1,5 @@
 ---
-title: Published Documentation: Celigo
+title: Published Documentation — Celigo
 layout: page
 ---
 
