@@ -5,7 +5,7 @@ layout: default
 
 ## API Documentation Samples
 
-This page contains API documentation samples that I created as part of a trainig program. Although I have created and maintained API documentation during my tenure as a Technical Writer, I am unable to add them here as the ones I have documented are used mostly for internal use by the companies I worked at.
+This page contains API documentation samples created as part of a training program. While I've created and maintained API documentation professionally as a Technical Writer, that work is for internal company use only and can't be shared publicly.
 
 ## Sample 1 — Audio transfer
 
