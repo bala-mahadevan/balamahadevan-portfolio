@@ -1,3 +1,8 @@
+---
+title: About Me
+layout: default
+---
+
 ## About Me
 I’m Balasubramanian Mahadevan, a Senior Technical Writer with 13+ years of experience creating structured, reusable documentation for SaaS, HR, payroll, finance, and integration platforms. I specialize in information architecture, taxonomy, metadata strategy, and modular content design—turning complex system behavior into clear, scalable content.
 
