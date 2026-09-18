@@ -10,7 +10,7 @@ This page contains some documentation samples which were created by me and publi
 
 **Summary:** This is a release note created and published in the Celigo Help Center for the Amazon – NetSuite integration app . This release note lists all new enhancements and changes made to this prebuilt integration app for the May 2023 release.
 
-**PDF:** <a href="assets/pdfs/releasenotessample_celigo.pdf" target="_blank" rel="noopener noreferrer">Download PDF</a>r"}
+**PDF:** <a href="assets/pdfs/releasenotessample_celigo.pdf" target="_blank" rel="noopener noreferrer">Download PDF</a>
 
 **Published at:** <a href="https://docs.celigo.com/hc/en-us/articles/14901533694491" target="_blank" rel="noopener noreferrer">Amazon Seller Central - NetSuite integration app release notes, 2023.5.1</a>
 
