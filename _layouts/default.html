@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>{{ page.title }} | {{ site.title }}</title>
+  <meta name="description" content="{{ site.description }}">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="assets/css/custom.css">
+</head>
+<body>
+
+  <nav class="site-nav">
+    <a href="index.html">Home</a> |
+    <a href="about.html">About Me</a> |
+    <a href="oracle_docs.html">Published Documentation — Oracle</a> |
+    <a href="celigo_docs.html">Published Documentation — Celigo</a> |
+    <a href="api_docs.html">API Documentation Samples</a> |
+    <a href="other_docs.html">Other Documentation Samples</a>
+  </nav>
+
+  <header class="site-header">
+    <h1 class="site-title">{{ site.title }}</h1>
+    <p class="site-tagline">{{ site.description }}</p>
+  </header>
+
+  <main class="site-content">
+    {{ content }}
+  </main>
+
+  <footer class="site-footer">
+    <p>{{ site.title }} — maintained by <a href="https://github.com/bala-mahadevan">bala-mahadevan</a></p>
+    <p>Published with GitHub Pages</p>
+  </footer>
+
+</body>
+</html>
