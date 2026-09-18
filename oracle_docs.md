@@ -1,6 +1,6 @@
 ---
 title: Published Documentation – Oracle
-layout: page
+layout: default
 ---
 
 ## Published Documentation: Oracle
