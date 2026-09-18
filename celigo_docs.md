@@ -12,7 +12,7 @@ This page contains some documentation samples which were created by me and publi
 
 **PDF:** [Download PDF](../assets/pdfs/releasenotessample_celigo.pdf)
 
-**Published at:** [Download PDF](https://docs.celigo.com/hc/en-us/articles/14901533694491){:target="_blank" rel="noopener noreferrer"}
+**Published at:** [Amazon Seller Central - NetSuite integration app release notes, 2023.5.1](https://docs.celigo.com/hc/en-us/articles/14901533694491){:target="_blank" rel="noopener noreferrer"}
 
 ## Consolidate errors in a single report
 
