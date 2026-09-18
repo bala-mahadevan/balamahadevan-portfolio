@@ -1,3 +1,8 @@
+---
+title: Published Documentation – Oracle
+layout: page
+---
+
 ## Published Documentation: Oracle
 This page contains some documentation samples which were created by me and published in the Oracle NetSuite documenation help center. This information is available in the following public domain: https://docs.oracle.com/en/cloud/saas/netsuite/index.html
 
