@@ -1,5 +1,5 @@
 ---
 title: API Documentation Samples
-layout: page
+layout: default
 ---
 
