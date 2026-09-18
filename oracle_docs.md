@@ -4,7 +4,7 @@ layout: default
 ---
 
 ## Published Documentation – Oracle
-This page contains some documentation samples which were created by me and published in the <a href="[https://docs.oracle.com/en/cloud/saas/netsuite/ns-online-help/article_3203657122.html](https://docs.oracle.com/en/cloud/saas/netsuite/index.html)" target="_blank" rel="noopener noreferrer">Oracle NetSuite Help Center</a>.
+This page contains some documentation samples which were created by me and published in the <a href="https://docs.oracle.com/en/cloud/saas/netsuite/index.html" target="_blank" rel="noopener noreferrer">Oracle NetSuite Help Center</a>.
 
 ## Download Form W-2 and Form W-2 C for Employees
 
