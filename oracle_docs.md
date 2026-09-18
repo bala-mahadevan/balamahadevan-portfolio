@@ -4,7 +4,7 @@ layout: default
 ---
 
 ## Published Documentation – Oracle
-This page contains some documentation samples which were created by me and published in the Oracle NetSuite documenation help center. This information is available in the following public domain: [Oracle NetSuite Help Center](https://docs.oracle.com/en/cloud/saas/netsuite/index.html).
+This page contains some documentation samples which were created by me and published in the Oracle NetSuite documenation help center. This information can be accessed from the [Oracle NetSuite Help Center](https://docs.oracle.com/en/cloud/saas/netsuite/index.html).
 
 ## Download Form W-2 and Form W-2 C for Employees
 
